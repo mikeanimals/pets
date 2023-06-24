@@ -3,30 +3,30 @@
     "name": "Fluffy",
     "breed": "Cat",
     "age": 2,
-    "image": "https://github.com/mikeanimals/pets/blob/main/photo_2023-06-24_17-31-46.jpg?raw=true"
+    "image": "https://github.com/mikeanimals/pets/blob/main/IMG_0422.JPG?raw=true"
   },
   {
     "name": "Buddy",
     "breed": "Dog",
     "age": 4,
-    "image": "https://github.com/mikeanimals/pets/blob/main/photo_2023-06-24_17-32-11.jpg?raw=true"
+    "image": "https://github.com/mikeanimals/pets/blob/main/IMG_0423.JPG?raw=true"
   },
   {
     "name": "Snowball",
     "breed": "Rabbit",
     "age": 1,
-    "image": "https://github.com/mikeanimals/pets/blob/main/photo_2023-06-24_17-32-15.jpg?raw=true"
+    "image": "https://github.com/mikeanimals/pets/blob/main/IMG_0426.JPG?raw=true"
   },
   {
     "name": "Buddy",
     "breed": "Dog",
     "age": 4,
-    "image": "https://github.com/mikeanimals/pets/blob/main/photo_2023-06-24_17-32-18.jpg?raw=true"
+    "image": "https://github.com/mikeanimals/pets/blob/main/IMG_0427.JPG?raw=true"
   },
   {
     "name": "Snowball",
     "breed": "Rabbit",
     "age": 1,
-    "image": "https://github.com/mikeanimals/pets/blob/main/photo_2023-06-24_17-32-22.jpg?raw=true"
+    "image": "https://github.com/mikeanimals/pets/blob/main/IMG_0428.JPG?raw=true"
   }
 ]
