@@ -37,7 +37,11 @@
     "breed": "Кот",
     "male": "Девочка",
     "age": "9 месяцев",
-    "image": "https://github.com/mikeanimals/pets/blob/main/IMG_0428.JPG?raw=true"
+    "image": "https://github.com/mikeanimals/pets/blob/main/IMG_0428.JPG?raw=true",
+    "images": [
+      "https://github.com/mikeanimals/pets/blob/main/baunty2.jpg?raw=true",
+      "https://github.com/mikeanimals/pets/blob/main/baunty3.jpg?raw=true"
+    ]
   },
   {
     "name": "Черри",
