@@ -5,7 +5,8 @@
     "breed": "Кот",
     "male": "Девочка",
     "age": "3 месяца",
-    "image": "https://github.com/mikeanimals/pets/blob/main/IMG_0422.JPG?raw=true"
+    "image": "https://github.com/mikeanimals/pets/blob/main/IMG_0422.JPG?raw=true",
+    "images": []
   },
   {
     "name": "Бетти",
@@ -13,7 +14,8 @@
     "breed": "Кот",
     "male": "Девочка",
     "age": "3 месяца",
-    "image": "https://github.com/mikeanimals/pets/blob/main/IMG_0423.JPG?raw=true"
+    "image": "https://github.com/mikeanimals/pets/blob/main/IMG_0423.JPG?raw=true",
+    "images": []
   },
   {
     "name": "Нокс",
@@ -21,7 +23,8 @@
     "breed": "Кот",
     "male": "Мальчик",
     "age": "3 месяца",
-    "image": "https://github.com/mikeanimals/pets/blob/main/IMG_0426.JPG?raw=true"
+    "image": "https://github.com/mikeanimals/pets/blob/main/IMG_0426.JPG?raw=true",
+    "images": []
   },
   {
     "name": "Луи",
@@ -29,7 +32,8 @@
     "breed": "Кот",
     "male": "Мальчик",
     "age": "3 месяца",
-    "image": "https://github.com/mikeanimals/pets/blob/main/IMG_0427.JPG?raw=true"
+    "image": "https://github.com/mikeanimals/pets/blob/main/IMG_0427.JPG?raw=true",
+    "images": []
   },
   {
     "name": "Баунти",
@@ -49,6 +53,7 @@
     "breed": "Кот",
     "male": "Девочка",
     "age": "3 месяца",
-    "image": "https://raw.githubusercontent.com/mikeanimals/pets/main/IMG_0425.JPG"
+    "image": "https://raw.githubusercontent.com/mikeanimals/pets/main/IMG_0425.JPG",
+    "images": []
   }
 ]
