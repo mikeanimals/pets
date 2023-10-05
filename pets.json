@@ -8,7 +8,7 @@
     "sterilzed": false,
     "order": 1,
     "status": "Ищет дом",
-    "age": "3 месяца",
+    "age": "4 месяца",
     "image": "https://github.com/mikeanimals/pets/blob/main/photo_2023-10-05_19-42-21.jpg?raw=true",
     "images": [
       "https://github.com/mikeanimals/pets/blob/main/photo_2023-10-05_19-42-21.jpg?raw=true",
@@ -42,10 +42,11 @@
     "order": 1,
     "status": "Ищет дом",
     "age": "3 месяца",
-    "image": "https://github.com/mikeanimals/pets/blob/main/photo_2023-10-05_19-41-22.jpg?raw=true",
+    "image": "https://github.com/mikeanimals/pets/blob/main/photo_2023-10-05_19-41-30.jpg?raw=true",
     "images": [
+      "https://github.com/mikeanimals/pets/blob/main/photo_2023-10-05_19-41-30.jpg?raw=true",
       "https://github.com/mikeanimals/pets/blob/main/photo_2023-10-05_19-41-28.jpg?raw=true",
-      "https://github.com/mikeanimals/pets/blob/main/photo_2023-10-05_19-41-30.jpg?raw=true"
+      "https://github.com/mikeanimals/pets/blob/main/photo_2023-10-05_19-41-22.jpg?raw=true" 
     ]
   },
   {
@@ -118,9 +119,9 @@
     "name": "Черри",
     "description": "Cпасена с военного городка Зябровка. Считаю что ей очень повезло, вирус не затронул ее зрение, как и в целом организм. Сдали биохимию, показатели в норме.  Но микроспория (лишай) распространилась на 50% от всего тела. Так же присутствует ушной клещ в большом количестве, блохи и заглистованность. Пока лечим микроспорию. Нужны средства на покупку корма, наполнителя и на капельки комплексные. Можно оформить доставку или поделиться остатками, если имеются. Кушает Royal Canin Mother & Babycat",
     "breed": "Кот",
-    "order": 1,
+    "order": 3,
     "vaccinated": false,
-    "status": "Ищет дом",
+    "status": "Пристроена",
     "sterilzed": false,
     "male": "Девочка",
     "age": "3 месяца",
@@ -204,6 +205,32 @@
     "status": "Ищет дом",
     "male": "Мальчик",
     "age": "5 лет",
+    "vaccinated": false,
+    "sterilzed": false,
+    "image": "https://github.com/mikeanimals/pets/blob/main/bazz1.jpg?raw=true",
+    "images": []
+  },
+  {
+    "name": "Муля",
+    "description": "Самая нежная и обладает спокойствием. Для этой девочки мы ищем самых надежных хозяев. Не отдаем на цепь! Приобретая бездомное животное, вы получаете верного друга, готового любить вас за то, что вы просто у него есть! О Муле, кличку естественно можно поменять, здорова, от паразитов обработана, вакцинирована, имеет вет книжку. При необходимости оплачу первое занятие с кинологом. У Мули нет человека, который бы занимался ее воспитанием и остальными щенками. Приобретая щенка, вы должны быть уверенными, что у вас будет время на их развитие и воспитание.Щенка отдаем взрослым ответственным людям, без самовыгула, с последующей стерилизацией. 80293354740 Елена",
+    "breed": "Собака",
+    "order": 1,
+    "status": "Ищет дом",
+    "male": "Девочка",
+    "age": "3 месяца",
+    "vaccinated": false,
+    "sterilzed": false,
+    "image": "https://github.com/mikeanimals/pets/blob/main/bazz1.jpg?raw=true",
+    "images": []
+  },
+  {
+    "name": "Миша",
+    "description": "Супер спокойный и умный щенок! Будет не маленький, но на цепь сторожевым собакой не хотим отдавать. Это абсолютно добрый, жмякательный пес. Идеальный вариант для квартиры или частного дома, максимум в вольер. Забрав Мишку вы не пожалеете, а только обретете хорошего друга и куча положительных эмоций! От паразитов обработанный, вакцинированный, имеет вет книжку! 80293354740 Елена",
+    "breed": "Собака",
+    "order": 1,
+    "status": "Ищет дом",
+    "male": "Мальчик",
+    "age": "3 месяца",
     "vaccinated": false,
     "sterilzed": false,
     "image": "https://github.com/mikeanimals/pets/blob/main/bazz1.jpg?raw=true",
