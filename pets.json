@@ -234,7 +234,11 @@
     "age": "3 месяца",
     "vaccinated": false,
     "sterilzed": false,
-    "image": "https://github.com/mikeanimals/pets/blob/main/bazz1.jpg?raw=true",
-    "images": []
+    "image": "https://github.com/mikeanimals/pets/blob/main/photo_2023-10-05_19-42-37.jpg?raw=true",
+    "images": [
+      "https://github.com/mikeanimals/pets/blob/main/photo_2023-10-05_19-42-37.jpg?raw=true",
+      "https://github.com/mikeanimals/pets/blob/main/photo_2023-10-05_19-42-39.jpg?raw=true",
+      "https://github.com/mikeanimals/pets/blob/main/photo_2023-10-05_19-42-41.jpg?raw=true"
+    ]
   }
 ]
