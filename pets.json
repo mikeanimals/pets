@@ -369,7 +369,7 @@
     "vaccinated": false,
     "sterilzed": false,
     "order": 1,
-    "status": "Ищет дом",
+    "status": "Ищет дом ",
     "age": "1 год",
     "image": "https://github.com/mikeanimals/pets/blob/main/lusha1.jpg?raw=true",
     "images": [
